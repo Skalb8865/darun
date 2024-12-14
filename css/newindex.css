@@ -113,7 +113,7 @@ body {
     font-size: var(--size-xl);
     text-decoration: none;
     font-weight: 600;
-    color: var(--clr-slate600);
+    color: var(--clr-slate400);
     letter-spacing: -0.05em;
     transition: color .3s;
 }
